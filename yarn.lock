@@ -884,20 +884,20 @@
   resolved "https://registry.yarnpkg.com/@jonkemp/package-utils/-/package-utils-1.0.6.tgz#94d55258e0ca1b70684632edbfdeb4601c958f64"
   integrity sha512-/xb8uaOiW6C/QKCDfSJzFUThPRpwerxvthKnzxkoB29u/CSIBY1Vp9mkbl8DwTx4dx9jnhSV2bS3tWL0pPHuAg==
 
-"@nestjs/common@8.0.10":
-  version "8.0.10"
-  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-8.0.10.tgz#5fc928b86a35d5f25bf8d8aa07d8dac9f7f6bfd4"
-  integrity sha512-PyhKdJ0MSbZAzuVtvUhhS3KVy/Hjk37nzO9kxatnFh/kjBo7otTwbtP6FLQeFgCTbmlol6soEPWXmzSdYaIOxw==
+"@nestjs/common@8.1.1":
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/common/-/common-8.1.1.tgz#24bb7f032cad229de182317ef69b9d481b18c12d"
+  integrity sha512-4do6SZrvBV4jz3Gf+uLz91kwkhXRxdAqe+jGLqNd4xMaArmT9L4xHngXdnv7wKOFCKb7Bc9EP4KfqS4z451npg==
   dependencies:
-    axios "0.22.0"
+    axios "0.23.0"
     iterare "1.2.1"
     tslib "2.3.1"
     uuid "8.3.2"
 
-"@nestjs/core@8.0.10":
-  version "8.0.10"
-  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-8.0.10.tgz#69e6dbb94ca2b92f8558823d74c1b61469271490"
-  integrity sha512-bxogmJ+p7cbiLDMIcxmq3JZyXSrPWm3+L+AD0Fk4/ghb7EX9v31XPKuSD5kUt/4PJa34esH23/YKrvDVfIMoZg==
+"@nestjs/core@8.1.1":
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/core/-/core-8.1.1.tgz#d3c2452e8a4c83a4c511962c4a5bd0dd6d594b92"
+  integrity sha512-EnQcLVK5Ct2flMg86Iz4rR5SW8yiCxMQPUZmbPdAH64u5ZArtA1E6kwZXrEUkstUYu5en+W+Q/iwCC8l252b6Q==
   dependencies:
     "@nuxtjs/opencollective" "0.3.2"
     fast-safe-stringify "2.1.1"
@@ -907,10 +907,10 @@
     tslib "2.3.1"
     uuid "8.3.2"
 
-"@nestjs/testing@8.0.10":
-  version "8.0.10"
-  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-8.0.10.tgz#5f437f77647efe1ed85417c46f47549c3f3fdc31"
-  integrity sha512-NzxHSFhW+DPBmJzcQ/IQMQw9GyWVzc8FYLaxraom0Gf93SGstKlZkvDtSOTlF9jQRWvwNCOjbpvT81H5p3tw6A==
+"@nestjs/testing@8.1.1":
+  version "8.1.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/testing/-/testing-8.1.1.tgz#bb4b2908c1ae0a2809193052e11a4b3a22e4942a"
+  integrity sha512-5vW1xi8z2m0QHdsLIpyyLpgINIiHcHTikYiPl1jde3mI52iLrIpv9+v2aWUrp2aHQJf7+br2M7WqDlVLWRFonA==
   dependencies:
     optional "0.1.4"
     tslib "2.3.1"
@@ -1431,10 +1431,10 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha1-x57Zf380y48robyXkLzDZkdLS3k=
 
-axios@0.22.0:
-  version "0.22.0"
-  resolved "https://registry.yarnpkg.com/axios/-/axios-0.22.0.tgz#bf702c41fb50fbca4539589d839a077117b79b25"
-  integrity sha512-Z0U3uhqQeg1oNcihswf4ZD57O3NrR1+ZXhxaROaWpDmsDTx7T2HNBV2ulBtie2hwJptu8UvgnJoK+BIqdzh/1w==
+axios@0.23.0:
+  version "0.23.0"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.23.0.tgz#b0fa5d0948a8d1d75e3d5635238b6c4625b05149"
+  integrity sha512-NmvAE4i0YAv5cKq8zlDoPd1VLKAqX5oLuZKs8xkJa4qi6RGn0uhCYFjWtHHC9EM/MwOwYWOs53W+V0aqEXq1sg==
   dependencies:
     follow-redirects "^1.14.4"
 
