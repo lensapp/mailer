@@ -51,8 +51,7 @@
   },
   "dependencies": {
     "glob": "7.1.7",
-    "inline-css": "3.0.0",
-    "pac-resolver": "^5.0.0",
+    "inline-css": "^3.0.0",
     "preview-email": "3.0.4"
   },
   "optionalDependencies": {
